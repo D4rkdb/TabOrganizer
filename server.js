@@ -1,1 +1,1 @@
-// Code serveur Node.js
+const PORT = process.env.PORT || 3000;
